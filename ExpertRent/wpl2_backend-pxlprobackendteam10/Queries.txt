@@ -1,0 +1,19 @@
+# Grab a value from {column_name} in {table_name} where the ID = {ID}
+	"SELECT {column_name} from {table_name} WHERE ID={ID}"
+
+# Create a new user with set variables
+	"INSERT INTO {table_name} ({column1}, {column2}, {column3}, ...) VALUES (?, ?, ?, ...)"
+
+# Update a user column where the ID matches the given ID
+	"UPDATE {table_name} SET {column_name} = '?' WHERE ID={ID}"
+
+# Delete a column value in a table matching the ID (used to remove a user)
+	"DELETE FROM {table_name} WHERE ID={ID}"
+
+# Delete data based on a given value
+	"DELETE FROM {table_name} WHERE {column_name}={value}"
+
+# Delete multiple statements 
+	"DELETE FROM {table_name} WHERE {column_name}={value} AND {column_name}={value}"
+
+# 

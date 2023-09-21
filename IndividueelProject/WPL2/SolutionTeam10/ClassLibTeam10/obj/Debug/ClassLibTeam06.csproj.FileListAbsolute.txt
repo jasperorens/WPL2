@@ -1,0 +1,6 @@
+C:\Users\ilias\OneDrive\Bureaublad\Programmeren-sem2\WPL2-Team06\SolutionTeam06\ClassLibTeam06\bin\Debug\ClassLibTeam06.dll
+C:\Users\ilias\OneDrive\Bureaublad\Programmeren-sem2\WPL2-Team06\SolutionTeam06\ClassLibTeam06\bin\Debug\ClassLibTeam06.pdb
+C:\Users\ilias\OneDrive\Bureaublad\Programmeren-sem2\WPL2-Team06\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam06.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Bureaublad\Programmeren-sem2\WPL2-Team06\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam06.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Bureaublad\Programmeren-sem2\WPL2-Team06\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam06.dll
+C:\Users\ilias\OneDrive\Bureaublad\Programmeren-sem2\WPL2-Team06\SolutionTeam06\ClassLibTeam06\obj\Debug\ClassLibTeam06.pdb

@@ -1,0 +1,157 @@
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\WebApiTeam10.exe
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\WebApiTeam10.deps.json
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\WebApiTeam10.runtimeconfig.json
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\WebApiTeam10.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\WebApiTeam10.pdb
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\staticwebassets\msbuild.WebApiTeam10.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiTeam10.props
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiTeam10.props
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiTeam10.props
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\scopedcss\bundle\WebApiTeam10.styles.css
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\refint\WebApiTeam10.dll
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.pdb
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\WebApiTeam10.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WPL2\SolutionTeam06\WebApiTeam06\obj\Debug\net6.0\ref\WebApiTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.GeneratedMSBuildEditorConfig.editorconfig
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.AssemblyInfoInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.AssemblyInfo.cs
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.MvcApplicationPartsAssemblyInfo.cs
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.MvcApplicationPartsAssemblyInfo.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\refint\WebApiTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.pdb
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\appsettings.Development.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\appsettings.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.exe
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.deps.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.runtimeconfig.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.pdb
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\ClassLibTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\ClassLibTeam10.pdb
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.WebApiTeam10.Microsoft.AspNetCore.StaticWebAssets.props
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiTeam10.props
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiTeam10.props
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiTeam10.props
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets.pack.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets.build.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets.development.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\scopedcss\bundle\WebApiTeam10.styles.css
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.csproj.CopyComplete
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.genruntimeconfig.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\ref\WebApiTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\individueel project\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\appsettings.Development.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\appsettings.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.exe
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.deps.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.runtimeconfig.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.pdb
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\ClassLibTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\ClassLibTeam10.pdb
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\ClassLibTeam10.dll.config
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.csproj.AssemblyReference.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.GeneratedMSBuildEditorConfig.editorconfig
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.AssemblyInfoInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.AssemblyInfo.cs
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.csproj.CoreCompileInputs.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.MvcApplicationPartsAssemblyInfo.cs
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.MvcApplicationPartsAssemblyInfo.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.WebApiTeam10.Microsoft.AspNetCore.StaticWebAssets.props
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiTeam10.props
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiTeam10.props
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiTeam10.props
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets.pack.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets.build.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets.development.json
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\scopedcss\bundle\WebApiTeam10.styles.css
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.csproj.CopyComplete
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\refint\WebApiTeam10.dll
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.pdb
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.genruntimeconfig.cache
+D:\JASPER\WORK\Opleidingen\PXL\WPL\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\ref\WebApiTeam10.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\appsettings.json
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.exe
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.deps.json
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.runtimeconfig.json
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\WebApiTeam10.pdb
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\ClassLibTeam10.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\ClassLibTeam10.pdb
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\bin\Debug\net6.0\ClassLibTeam10.dll.config
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.AssemblyInfoInputs.cache
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.AssemblyInfo.cs
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.WebApiTeam10.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiTeam10.props
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiTeam10.props
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiTeam10.props
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\scopedcss\bundle\WebApiTeam10.styles.css
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.csproj.CopyComplete
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\refint\WebApiTeam10.dll
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.pdb
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\WebApiTeam10.genruntimeconfig.cache
+C:\Users\J\Desktop\Vakken\WPL2\IndividueelProject\WPL2\SolutionTeam10\WebApiTeam10\obj\Debug\net6.0\ref\WebApiTeam10.dll

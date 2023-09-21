@@ -1,0 +1,14 @@
+        'bookingStore.bookings'(newBookings) {
+            const currentUserId = parseInt(localStorage.getItem('id'));
+            const filteredBookings = newBookings.filter(booking => booking.idbuyer === currentUserId);
+            this.pMethods = filteredBookings
+                .filter(booking => booking.paymentMethod !== '') // Filter out empty strings
+                .map(booking => booking.paymentMethod);
+            this.pName = filteredBookings
+                .filter(booking => booking.paymentName !== '')
+                .map(booking => booking.paymentName);
+            this.pNum = filteredBookings
+                .filter(booking => booking.paymentNum !== 0)
+                .map(booking => booking.paymentNum);
+            this.pFull = filteredBookings.map(booking => booking.paymentName + booking.paymentMethod);
+        },
